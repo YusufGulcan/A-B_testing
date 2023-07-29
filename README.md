@@ -17,7 +17,6 @@ Based on the number of categories to compare and the distribution of the sales d
 
 ### Business Insights and Recommendations
 
-![11-Ways-to-Find-or-Create-Career-Alternatives-and-Opportunities-1024x530](https://github.com/YusufGulcan/A-B_testing/assets/105684729/7be59651-b442-4af5-8665-8d2bd4cb0b00)
 
 The analysis uncovers valuable insights that form the basis for business recommendations. Here are some key findings and recommendations:
 
