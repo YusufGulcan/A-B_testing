@@ -10,10 +10,11 @@ The initial step involves exploring the dataset to gain insights and identify re
 
 ![output](https://github.com/YusufGulcan/A-B_testing/assets/105684729/debba6dd-fc58-4a87-9cf5-2961cdcd0840)
 
+
 ### Statistical Tests
 Based on the number of categories to compare and the distribution of the sales data, we employ different statistical tests. For instances where there are only two categories (variables) to compare, we use the independent Student's t-test and the Mann-Whitney U test. When there are more than two variables, we turn to the ANOVA and the Kruskal-Wallis test.
 
-![Statistical Tests for AB Testing (2)](https://github.com/YusufGulcan/A-B_testing/assets/105684729/2d2c9dc5-ef49-483d-84e6-7256e16b2398)
+![Screenshot 2023-07-17 141546](https://github.com/YusufGulcan/A-B_testing/assets/105684729/ebcf7193-0e92-4a96-bc3b-00ea70d4c4ed)
 
 ### Business Insights and Recommendations
 
