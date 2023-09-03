@@ -35,6 +35,11 @@ The analysis uncovers valuable insights that form the basis for business recomme
 
 **Communication and Reporting**: Share the analysis findings throughout the company to foster a data-driven approach and improve overall organizational performance.
 
+For more information, read through the medium article in which I have gone through the reasoning behind each step. 
+
+https://medium.com/@yusufgulcan/data-driven-decisions-a-b-testing-c6df7ed1afef
+
+
 ### Acknowledgments
 This project was carried out to understand the impact of different promotions on sales volumes and provide data-driven recommendations for decision-making. The code and analysis were performed by Yusuf Gulcan and inspired by real-world business scenarios.
 
