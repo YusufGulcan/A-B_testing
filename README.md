@@ -23,17 +23,17 @@ Based on the number of categories to compare and the distribution of the sales d
 
 The analysis uncovers valuable insights that form the basis for business recommendations. Here are some key findings and recommendations:
 
-Stop or Modify Promotion2: Promotion2 is underperforming compared to other promotions. It is advisable to either cease operations under this promotion or modify its offers and deals to try a new approach.
+**Stop or Modify Promotion2**: Promotion2 is underperforming compared to other promotions. It is advisable to either cease operations under this promotion or modify its offers and deals to try a new approach.
 
-Allocate Resources to Successful Promotions: Promotions that yield higher revenue, such as Promotion1 and Promotion3, should be prioritized for resource allocation to achieve efficiency and growth.
+**Allocate Resources to Successful Promotions**: Promotions that yield higher revenue, such as Promotion1 and Promotion3, should be prioritized for resource allocation to achieve efficiency and growth.
 
-Investigate Underperformance: In-depth analysis is crucial to identify the root causes behind underperforming promotions. Understanding these factors helps optimize decision-making processes.
+**Investigate Underperformance**: In-depth analysis is crucial to identify the root causes behind underperforming promotions. Understanding these factors helps optimize decision-making processes.
 
-Derive Alternative Promotions: Learn from both mistakes and successes in the existing promotions to create better alternative strategies.
+**Derive Alternative Promotions**: Learn from both mistakes and successes in the existing promotions to create better alternative strategies.
 
-Take Advantage of Niches: Utilize insights into specific subclasses within the data to capitalize on unique opportunities in specific market segments or customer groups.
+**Take Advantage of Niches**: Utilize insights into specific subclasses within the data to capitalize on unique opportunities in specific market segments or customer groups.
 
-Communication and Reporting: Share the analysis findings throughout the company to foster a data-driven approach and improve overall organizational performance.
+**Communication and Reporting**: Share the analysis findings throughout the company to foster a data-driven approach and improve overall organizational performance.
 
 ### Acknowledgments
 This project was carried out to understand the impact of different promotions on sales volumes and provide data-driven recommendations for decision-making. The code and analysis were performed by Yusuf Gulcan and inspired by real-world business scenarios.
